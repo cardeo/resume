@@ -140,3 +140,23 @@ Product Space: Video Games
 Video gaming testing for the following titles: NHL, NBA, NBA Street, Need for Speed, and WCW. 
 
 Front end development for internal QA department website, NBA QA team website, and WCW QA team website. 
+
+## Education
+
+**Langara College**<br />
+Certificate in Advertising & Graphic Design<br />
+2002 - 2004<br />
+Vancouver, BC
+
+**Art Institute of Vancouver**<br />
+Certificate in Multimedia & Design
+1998 - 2000<br />
+Burnaby, BC
+
+## Links
+
+- [Linkedin](https://www.linkedin.com/in/mattlambertvancouver)
+- [GitHub](https://github.com/cardeo)
+- [Medium](https://mlambert.medium.com/)
+- [Dribbble](https://dribbble.com/cardeo)
+
