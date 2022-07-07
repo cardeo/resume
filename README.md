@@ -2,7 +2,6 @@
 
 ### Senior Product Designer
 [info@cardeo.ca](mailto:info@cardeo.ca) //
-604 710 5669 //
 [Portfolio](http://mattlambert.ca/temp/) //
 [Personal Website](http://mattlambert.ca)
 
